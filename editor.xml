@@ -1,5 +1,6 @@
 <application>
   <component name="EditorSettings">
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="1000" />
   </component>
 </application>
