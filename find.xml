@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [ToDoly]'" />
-    <option name="defaultScopeName" value="Directory '... [ToDoly]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... [ToDoly]'" />
+    <option name="customScope" value="File '...\src\com\alaskalany\todoly\Ui.java [ToDoly]'" />
+    <option name="defaultScopeName" value="File '...\src\com\alaskalany\todoly\Ui.java [ToDoly]'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\com\alaskalany\todoly\Ui.java [ToDoly]'" />
   </component>
 </application>
