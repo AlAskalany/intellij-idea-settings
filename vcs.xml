@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/iluwatar/java-design-patterns.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AlAskalany/data-structures-exercises-sda4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Repos" />
