@@ -8,6 +8,9 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
   </action>
+  <action id="GenerateJavadoc">
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
   <action id="Graph.ActualZoom">
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>

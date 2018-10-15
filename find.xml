@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="customScope" value="File '...\src\com\alaskalany\todoly\todo\TaskManager.java [ToDoly]'" />
+    <option name="defaultScopeName" value="File '...\src\com\alaskalany\todoly\todo\TaskManager.java [ToDoly]'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\com\alaskalany\todoly\todo\TaskManager.java [ToDoly]'" />
   </component>
 </application>
