@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ps1" type="Native" />
       <mapping pattern="todolyDB" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
